@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sjj79fkmuqbqLsH3Ku2n4QgBh/q6FY0ow9lR+PDsMa0=",
+  "Source": "MovieReview.Api",
+  "BasePath": "_content/MovieReview.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

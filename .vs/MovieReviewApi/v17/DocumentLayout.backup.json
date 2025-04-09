@@ -1,0 +1,1766 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TeachingHillel\\MovieReviewApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\moviereviewdb\\moviereviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\moviereviewdb\\moviereviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\domain\\movies\\request\\removemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\domain\\movies\\request\\removemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\domain\\movies\\request\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\domain\\movies\\request\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\domain\\users\\request\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\domain\\users\\request\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\domain\\reviews\\request\\addreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\domain\\reviews\\request\\addreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\moviereview.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\moviereview.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\deletereview\\deletereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\deletereview\\deletereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\updatereview\\updatereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\updatereview\\updatereviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\updatemovie\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\updatemovie\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\common\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\common\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\moviereview.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\moviereview.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\moviereview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\moviereview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\moviereview.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\moviereview.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\moviereview.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\moviereview.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\reviewentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\reviewentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\common\\imovietitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\common\\imovietitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\common\\imoviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\common\\imoviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\common\\ibuisnessruleasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\common\\ibuisnessruleasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\common\\ibuisnessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\common\\ibuisnessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\queries\\getreviewbyid\\getreviewbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\queries\\getreviewbyid\\getreviewbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\queries\\getusers\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\queries\\getusers\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\common\\ireviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\common\\ireviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\common\\icannotdeleteuserwithreviewschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\common\\icannotdeleteuserwithreviewschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\queries\\getmovie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\queries\\getmovie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\queries\\getmovie\\getmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\queries\\getmovie\\getmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\queries\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\queries\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\common\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\common\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\common\\iuserreviewexistencechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\common\\iuserreviewexistencechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\common\\ireviewtitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\common\\ireviewtitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\common\\iuseremailuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\common\\iuseremailuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\queries\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\queries\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\reviews\\queries\\getreviewbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\reviews\\queries\\getreviewbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\data\\createuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\data\\createuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\common\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\common\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\data\\addreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\data\\addreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\data\\updatereviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\data\\updatereviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\rules\\reviewtitlemustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\rules\\reviewtitlemustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\validator\\addreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\validator\\addreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\reviews\\validator\\updatereviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\reviews\\validator\\updatereviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\data\\updateuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\data\\updateuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\rules\\cannotdeleteuserwithreviewsrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\rules\\cannotdeleteuserwithreviewsrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\rules\\useremailmustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\rules\\useremailmustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\validator\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\validator\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\users\\validator\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\users\\validator\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\movies\\common\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\movies\\common\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\movies\\common\\movietitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\movies\\common\\movietitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\movies\\queries\\getmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\movies\\queries\\getmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\reviews\\common\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\reviews\\common\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\reviews\\common\\reviewtitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\reviews\\common\\reviewtitleuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\reviews\\queries\\getreviewsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\reviews\\queries\\getreviewsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\common\\cannotdeleteuserwithreviewschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\common\\cannotdeleteuserwithreviewschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\common\\useremailuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\common\\useremailuniquenesschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.infrastructure\\domain\\users\\common\\userreviewexistencechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF55E4-6488-46F0-A916-867DAF94B42B}|src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj|solutionrelative:src\\moviereview.infrastructure\\domain\\users\\common\\userreviewexistencechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\common\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\common\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\queries\\getusers\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\queries\\getusers\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\users\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\users\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\rules\\movietitlemustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\rules\\movietitlemustbeuniquerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\validator\\createmovievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\validator\\createmovievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\movieentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9DC7DF-E2ED-4B1A-9EED-D0EA07B12F62}|src\\MovieReview.Persistence\\MovieReview.Persistence.csproj|solutionrelative:src\\moviereview.persistence\\moviereviewdb\\entityconfigurations\\movieentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\queries\\getreviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\queries\\getreviews\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\updatereview\\updatereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\updatereview\\updatereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\addreview\\addreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\addreview\\addreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\deletereview\\deletereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\deletereview\\deletereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\queries\\getreviews\\getreviewsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\queries\\getreviews\\getreviewsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\reviews\\commands\\addreview\\addreviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\reviews\\commands\\addreview\\addreviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\domain\\movies\\data\\createmoviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\domain\\movies\\data\\createmoviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\exceptions\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\exceptions\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\exceptions\\rulevalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\exceptions\\rulevalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.core\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E4B99-BF05-493E-AE8E-5233BF3558D9}|src\\MovieReview.Core\\MovieReview.Core.csproj|solutionrelative:src\\moviereview.core\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\deletemovie\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\deletemovie\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\updatemovie\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\updatemovie\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\deletemovie\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\deletemovie\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\queries\\getmoviebyid\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\queries\\getmoviebyid\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\domain\\movies\\queries\\getmoviebyid\\getmoviebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\domain\\movies\\queries\\getmoviebyid\\getmoviebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08F0F-9EFE-45BA-BC25-4F8DA83A56D8}|src\\MovieReview.Application\\MovieReview.Application.csproj|solutionrelative:src\\moviereview.application\\applicationregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|f:\\teachinghillel\\moviereviewapi\\src\\moviereview.api\\common\\routs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F9450D-78A1-490B-8AD2-E66326B8107B}|src\\MovieReview.Api\\MovieReview.Api.csproj|solutionrelative:src\\moviereview.api\\common\\routs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 63,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\MovieReview.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T04:51:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieReview.Api",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\MovieReview.Api.csproj",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\MovieReview.Api.csproj",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\MovieReview.Api.csproj",
+              "RelativeToolTip": "src\\MovieReview.Api\\MovieReview.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T04:47:49.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieReview.Core",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\MovieReview.Core.csproj",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\MovieReview.Core.csproj",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\MovieReview.Core.csproj",
+              "RelativeToolTip": "src\\MovieReview.Core\\MovieReview.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T04:47:37.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\appsettings.json",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\appsettings.json",
+              "RelativeToolTip": "src\\MovieReview.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T19:20:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CannotDeleteUserWithReviewsChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\CannotDeleteUserWithReviewsChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\CannotDeleteUserWithReviewsChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\CannotDeleteUserWithReviewsChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\CannotDeleteUserWithReviewsChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:45:33.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:47:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUserByIdQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:44:36.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Validator\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Validator\\CreateUserValidator.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Validator\\CreateUserValidator.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Validator\\CreateUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:37:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateUserData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Data\\CreateUserData.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Data\\CreateUserData.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Data\\CreateUserData.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Data\\CreateUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:36:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:07:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:06:39.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICannotDeleteUserWithReviewsChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\ICannotDeleteUserWithReviewsChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Common\\ICannotDeleteUserWithReviewsChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\ICannotDeleteUserWithReviewsChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Common\\ICannotDeleteUserWithReviewsChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:51:35.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CannotDeleteUserWithReviewsRule.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Rules\\CannotDeleteUserWithReviewsRule.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Rules\\CannotDeleteUserWithReviewsRule.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Rules\\CannotDeleteUserWithReviewsRule.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Rules\\CannotDeleteUserWithReviewsRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:10:43.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UserReviewExistenceChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserReviewExistenceChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserReviewExistenceChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserReviewExistenceChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserReviewExistenceChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:09:52.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUserReviewExistenceChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUserReviewExistenceChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUserReviewExistenceChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUserReviewExistenceChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUserReviewExistenceChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:08:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:03:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:03:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwBEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:43:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:43:25.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateReviewValidator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Validator\\UpdateReviewValidator.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Validator\\UpdateReviewValidator.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Validator\\UpdateReviewValidator.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Validator\\UpdateReviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:32:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteReviewCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwAsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:49:00.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DeleteReviewCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\DeleteReview\\DeleteReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:48:25.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateReviewData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Data\\UpdateReviewData.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Data\\UpdateReviewData.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Data\\UpdateReviewData.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Data\\UpdateReviewData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:37:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateReviewCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewBIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:36:55.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UpdateReviewCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\UpdateReview\\UpdateReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:36:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetReviewByIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewByIdQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewByIdQueryHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:51:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetReviewByIdQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviewById\\GetReviewByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviewById\\GetReviewByIdQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviewById\\GetReviewByIdQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviewById\\GetReviewByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:49:59.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\UserDto.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\UserDto.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\UserDto.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\UserDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA3wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:33:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Users\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:33:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserEmailUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserEmailUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserEmailUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserEmailUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UserEmailUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:13:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReviewTitleUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewTitleUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewTitleUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewTitleUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewTitleUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:12:46.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UsersRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UsersRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Common\\UsersRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:11:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetUsersQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUsersQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUsersQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Users\\Queries\\GetUsersQueryHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:11:13.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ReviewsRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewsRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewsRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewsRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Common\\ReviewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:09:32.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:59:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewEntityConfiguration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\ReviewEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\ReviewEntityConfiguration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\ReviewEntityConfiguration.cs",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\ReviewEntityConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:54:09.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MovieEntityConfiguration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\MovieEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\MovieEntityConfiguration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\MovieEntityConfiguration.cs",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\MovieReviewDb\\EntityConfigurations\\MovieEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:48:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MoviesRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MoviesRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MoviesRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MoviesRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MoviesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:42:40.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetReviewsQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewsQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewsQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Reviews\\Queries\\GetReviewsQueryHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:21:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GetReviewsQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\GetReviewsQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\GetReviewsQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\GetReviewsQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\GetReviewsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:17:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\ReviewDto.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\ReviewDto.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Queries\\GetReviews\\ReviewDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:33:17.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Common\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Common\\UnitOfWork.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Common\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Common\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:19:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "GetMovieByIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:46:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "GetMovieByIdQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:45:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateMovieCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:21:12.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UpdateMovieCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\UpdateMovie\\UpdateMovieCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:20:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AddReviewCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:56:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AddReviewCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Reviews\\Commands\\AddReview\\AddReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:55:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MovieTitleUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MovieTitleUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MovieTitleUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MovieTitleUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Common\\MovieTitleUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:23:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InfrastructureRegistration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\InfrastructureRegistration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\InfrastructureRegistration.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\InfrastructureRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:21:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GetMoviesQueryHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Queries\\GetMoviesQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Queries\\GetMoviesQueryHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\Domain\\Movies\\Queries\\GetMoviesQueryHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\Domain\\Movies\\Queries\\GetMoviesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:14:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:47:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieReview.Infrastructure.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj",
+              "RelativeToolTip": "src\\MovieReview.Infrastructure\\MovieReview.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T07:46:56.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieReview.Persistence.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReview.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\MovieReview.Persistence.csproj",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReview.Persistence.csproj",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\MovieReview.Persistence.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T07:40:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetMoviesQuery.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\GetMoviesQuery.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\GetMoviesQuery.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\GetMoviesQuery.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\GetMoviesQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:37:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\MovieDto.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\MovieDto.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\MovieDto.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Queries\\GetMovie\\MovieDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:36:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DeleteMovieCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:35:22.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DeleteMovieCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\DeleteMovie\\DeleteMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:35:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CreateMovieCommandHandler.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:33:54.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CreateMovieCommand.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Domain\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:29:22.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieReviewDbContext.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\MovieReviewDbContext.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Persistence\\MovieReviewDb\\MovieReviewDbContext.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Persistence\\MovieReviewDb\\MovieReviewDbContext.cs*",
+              "RelativeToolTip": "src\\MovieReview.Persistence\\MovieReviewDb\\MovieReviewDbContext.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:21:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserEmailMustBeUniqueRule.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Rules\\UserEmailMustBeUniqueRule.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Rules\\UserEmailMustBeUniqueRule.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Rules\\UserEmailMustBeUniqueRule.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Rules\\UserEmailMustBeUniqueRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:14:55.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ReviewTitleMustBeUniqueRule.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Rules\\ReviewTitleMustBeUniqueRule.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Rules\\ReviewTitleMustBeUniqueRule.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Rules\\ReviewTitleMustBeUniqueRule.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Rules\\ReviewTitleMustBeUniqueRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:14:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MovieTitleMustBeUniqueRule.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Rules\\MovieTitleMustBeUniqueRule.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Rules\\MovieTitleMustBeUniqueRule.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Rules\\MovieTitleMustBeUniqueRule.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Rules\\MovieTitleMustBeUniqueRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:13:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RuleResult.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\RuleResult.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Common\\RuleResult.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\RuleResult.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Common\\RuleResult.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIA0wCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:09:50.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Common\\IUnitOfWork.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Common\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:09:41.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBuisnessRuleAsync.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IBuisnessRuleAsync.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Common\\IBuisnessRuleAsync.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IBuisnessRuleAsync.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Common\\IBuisnessRuleAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:09:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBuisnessRule.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IBuisnessRule.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Common\\IBuisnessRule.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\IBuisnessRule.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Common\\IBuisnessRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:09:06.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserEmailUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUserEmailUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUserEmailUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUserEmailUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUserEmailUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:07:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IReviewTitleUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewTitleUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewTitleUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewTitleUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewTitleUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:07:32.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMovieTitleUniquenessChecker.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Common\\IMovieTitleUniquenessChecker.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Common\\IMovieTitleUniquenessChecker.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Common\\IMovieTitleUniquenessChecker.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Common\\IMovieTitleUniquenessChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:06:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMoviesRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Common\\IMoviesRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Common\\IMoviesRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Common\\IMoviesRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Common\\IMoviesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAzwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:05:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReviewsRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewsRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewsRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewsRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Common\\IReviewsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:04:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUsersRepository.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Common\\IUsersRepository.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Common\\IUsersRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA6wAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:03:54.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateUserData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Data\\UpdateUserData.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Data\\UpdateUserData.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Data\\UpdateUserData.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Data\\UpdateUserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:02:07.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddReviewData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Data\\AddReviewData.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Data\\AddReviewData.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Data\\AddReviewData.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Data\\AddReviewData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:01:49.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CreateMovieData.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Data\\CreateMovieData.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Data\\CreateMovieData.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Data\\CreateMovieData.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Data\\CreateMovieData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:01:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddReviewValidator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Validator\\AddReviewValidator.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Validator\\AddReviewValidator.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Validator\\AddReviewValidator.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Validator\\AddReviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:59:18.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CreateMovieValidator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Validator\\CreateMovieValidator.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Validator\\CreateMovieValidator.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Validator\\CreateMovieValidator.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Validator\\CreateMovieValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:58:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateUserValidator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Validator\\UpdateUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Validator\\UpdateUserValidator.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Validator\\UpdateUserValidator.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Validator\\UpdateUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:56:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Exceptions\\ValidationException.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:48:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RuleValidationException.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\RuleValidationException.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Exceptions\\RuleValidationException.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\RuleValidationException.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Exceptions\\RuleValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:48:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:48:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Exceptions\\DomainException.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:48:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AlreadyExistsException.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\AlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Exceptions\\AlreadyExistsException.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Exceptions\\AlreadyExistsException.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Exceptions\\AlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:47:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Common\\Entity.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Common\\Entity.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Common\\Entity.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:41:23.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Models\\User.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Users\\Models\\User.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Users\\Models\\User.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Users\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA5wAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:37:14.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Review.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Reviews\\Models\\Review.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Reviews\\Models\\Review.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Reviews\\Models\\Review.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:36:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Core\\Domain\\Movies\\Models\\Movie.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Core\\Domain\\Movies\\Models\\Movie.cs",
+              "RelativeToolTip": "src\\MovieReview.Core\\Domain\\Movies\\Models\\Movie.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:36:37.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PageResponse.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Common\\PageResponse.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\Common\\PageResponse.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\Common\\PageResponse.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\Common\\PageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:45:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Users\\Request\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Domain\\Users\\Request\\RegisterUserRequest.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Users\\Request\\RegisterUserRequest.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Domain\\Users\\Request\\RegisterUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:13:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddReviewRequest.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Reviews\\Request\\AddReviewRequest.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Domain\\Reviews\\Request\\AddReviewRequest.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Reviews\\Request\\AddReviewRequest.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Domain\\Reviews\\Request\\AddReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:13:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateMovieRequest.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Movies\\Request\\CreateMovieRequest.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Domain\\Movies\\Request\\CreateMovieRequest.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Movies\\Request\\CreateMovieRequest.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Domain\\Movies\\Request\\CreateMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:12:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveMovieRequest.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Movies\\Request\\RemoveMovieRequest.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Domain\\Movies\\Request\\RemoveMovieRequest.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Domain\\Movies\\Request\\RemoveMovieRequest.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Domain\\Movies\\Request\\RemoveMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:11:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieReview.Application.csproj",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\MovieReview.Application.csproj",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\MovieReview.Application.csproj",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\MovieReview.Application.csproj",
+              "RelativeToolTip": "src\\MovieReview.Application\\MovieReview.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T13:43:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ApplicationRegistration.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\ApplicationRegistration.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Application\\ApplicationRegistration.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Application\\ApplicationRegistration.cs",
+              "RelativeToolTip": "src\\MovieReview.Application\\ApplicationRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:39:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Routs.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Common\\Routs.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Common\\Routs.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Common\\Routs.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Common\\Routs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:40:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Program.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Program.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:33:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:27:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Controllers\\ReviewsController.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:27:24.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\Controllers\\MoviesController.cs",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "src\\MovieReview.Api\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:26:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\MovieReview.Api\\appsettings.Development.json",
+              "ToolTip": "F:\\TeachingHillel\\MovieReviewApi\\src\\MovieReview.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\MovieReview.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T07:59:03.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieReview.Application\MovieReview.Application.csproj" />
+    <ProjectReference Include="..\MovieReview.Core\MovieReview.Core.csproj" />
+    <ProjectReference Include="..\MovieReview.Persistence\MovieReview.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

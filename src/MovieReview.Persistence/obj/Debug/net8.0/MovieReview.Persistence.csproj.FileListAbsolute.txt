@@ -1,0 +1,17 @@
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.csproj.AssemblyReference.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.AssemblyInfoInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.AssemblyInfo.cs
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Persistence.deps.json
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Persistence.runtimeconfig.json
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Persistence.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Persistence.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Core.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\bin\Debug\net8.0\MovieReview.Core.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieRev.21ED75CF.Up2Date
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\refint\MovieReview.Persistence.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\MovieReview.Persistence.genruntimeconfig.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Persistence\obj\Debug\net8.0\ref\MovieReview.Persistence.dll
