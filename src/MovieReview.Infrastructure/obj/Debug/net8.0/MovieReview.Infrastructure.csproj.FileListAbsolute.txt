@@ -1,8 +1,3 @@
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.csproj.AssemblyReference.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.AssemblyInfoInputs.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.AssemblyInfo.cs
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.csproj.CoreCompileInputs.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Infrastructure.deps.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Infrastructure.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Infrastructure.pdb
@@ -12,6 +7,12 @@ F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Application.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Core.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\bin\Debug\net8.0\MovieReview.Persistence.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.csproj.AssemblyReference.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.AssemblyInfoInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.AssemblyInfo.cs
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.sourcelink.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieRev.7EB574C1.Up2Date
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\MovieReview.Infrastructure.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Infrastructure\obj\Debug\net8.0\refint\MovieReview.Infrastructure.dll

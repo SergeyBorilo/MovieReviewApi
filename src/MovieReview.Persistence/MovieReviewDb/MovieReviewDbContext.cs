@@ -33,7 +33,7 @@ public class MovieReviewDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
 
-        // modelBuilder.HasDefaultSchema(UniDbSchema);
+        modelBuilder.HasDefaultSchema(UniDbSchema);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(MovieReviewDbContext).Assembly);
         modelBuilder.ApplyConfiguration(new MovieEntityConfiguration());
         modelBuilder.ApplyConfiguration(new ReviewEntityConfiguration());

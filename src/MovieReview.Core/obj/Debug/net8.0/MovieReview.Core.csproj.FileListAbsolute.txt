@@ -1,11 +1,12 @@
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.deps.json
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.csproj.AssemblyReference.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.GeneratedMSBuildEditorConfig.editorconfig
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.AssemblyInfoInputs.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.AssemblyInfo.cs
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.csproj.CoreCompileInputs.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.deps.json
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.dll
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\bin\Debug\net8.0\MovieReview.Core.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.sourcelink.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\refint\MovieReview.Core.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Core\obj\Debug\net8.0\MovieReview.Core.pdb

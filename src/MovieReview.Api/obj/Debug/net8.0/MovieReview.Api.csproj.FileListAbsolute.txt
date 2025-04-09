@@ -1,9 +1,3 @@
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.csproj.AssemblyReference.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.GeneratedMSBuildEditorConfig.editorconfig
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.AssemblyInfoInputs.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.AssemblyInfo.cs
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.csproj.CoreCompileInputs.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.MvcApplicationPartsAssemblyInfo.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\appsettings.Development.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\appsettings.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\MovieReview.Api.staticwebassets.endpoints.json
@@ -108,6 +102,14 @@ F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\MovieRevie
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\MovieReview.Infrastructure.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\MovieReview.Core.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\bin\Debug\net8.0\MovieReview.Persistence.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.csproj.AssemblyReference.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.AssemblyInfoInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.AssemblyInfo.cs
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.sourcelink.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\scopedcss\bundle\MovieReview.Api.styles.css
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets.build.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -118,10 +120,10 @@ F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticweba
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieReview.Api.props
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieReview.Api.props
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets.pack.json
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieRev.37A8C24C.Up2Date
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\refint\MovieReview.Api.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\MovieReview.Api.genruntimeconfig.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\ref\MovieReview.Api.dll
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

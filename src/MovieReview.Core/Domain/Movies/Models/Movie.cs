@@ -13,7 +13,7 @@ public class Movie : Entity
     public int Year { get; private set; }
     public string? Description { get; private set; }
     public DateTime CreatedAt { get; private set; }
-    public ICollection<Review> Reviews { get; set; } = [];
+    public IReadOnlyCollection<Review> Reviews { get; set; } = [];
 
     private Movie() { }
 

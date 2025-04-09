@@ -9,7 +9,7 @@ public class User : Entity
     public string UserName { get; set; } = null!;
     public string Email { get; set; } = null!;
 
-    public ICollection<Review> Reviews { get; set; } = [];
+    public IReadOnlyCollection<Review> Reviews { get; set; } = [];
 
     public User() { }
 

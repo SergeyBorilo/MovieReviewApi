@@ -1,8 +1,3 @@
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.csproj.AssemblyReference.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.GeneratedMSBuildEditorConfig.editorconfig
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.AssemblyInfoInputs.cache
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.AssemblyInfo.cs
-F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.csproj.CoreCompileInputs.cache
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Application.deps.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Application.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Application.pdb
@@ -10,6 +5,12 @@ F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\Mo
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Persistence.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Core.pdb
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\bin\Debug\net8.0\MovieReview.Persistence.pdb
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.csproj.AssemblyReference.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.AssemblyInfoInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.AssemblyInfo.cs
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.sourcelink.json
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieRev.4564DC91.Up2Date
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\MovieReview.Application.dll
 F:\TeachingHillel\MovieReviewApi\src\MovieReview.Application\obj\Debug\net8.0\refint\MovieReview.Application.dll
